@@ -8,50 +8,65 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 - Buka IDLE Python di pencarian
 
 
-![gambar 1] (screenshots/ss1.jpg)
+<p align="center">
+ <img src="screenshots/ss1.jpg"/>
+</p>
 - Kemudian klik 
 ```bash
 > File
 > New File
 ```
 
-![gambar 2] (screenshots/ss2.jpg)
+<p align="center">
+ <img src="screenshots/ss2.jpg"/>
+</p>
 
 - Masukan koding yang kalian ingin gunakan
 
 
-![gambar 3] (screenshots/ss3.jpg)
+<p align="center">
+ <img src="screenshots/ss3.jpg"/>
+</p>
 
 - Setelah itu klik
 ```bash
 > File
 > Save
 ```
-![gambar 4] (screenshots/ss4.jpg)
+<p align="center">
+ <img src="screenshots/ss4.jpg"/>
+</p>
 
 - Untuk menyimpan file Python
 ```bash
 > "JANGAN LUPA MENGGUNAKAN .py"
 ```
 
-![gambar 5] (screenshots/ss5.jpg)
+<p align="center">
+ <img src="screenshots/ss5.jpg"/>
+</p>
 - Kemudian klik Run untuk menjalankan program
 ```bash
 > Run
 > Run Module
 ```
 
-![gambar 6] (screenshots/ss6)
+<p align="center">
+ <img src="screenshots/ss6.jpg"/>
+</p>
 
  # Input
 - input data kalian
 
-![gambar 7] (screenshots/ss7.jpg)
-
+<p align="center">
+ <img src="screenshots/ss7.jpg"/>
+</p>
 # Output
 - hasil
 
-![gambar 8] (screenshots/ss8.jpg)
+<p align="center">
+ <img src="screenshots/ss8.jpg"/>
+</p>
 - Selesai
 
 ## Terima Kasih
