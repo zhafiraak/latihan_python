@@ -11,7 +11,9 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 <p align="center">
  <img src="screenshots/ss1.jpg"/>
 </p>
+
 - Kemudian klik 
+
 ```bash
 > File
 > New File
@@ -29,6 +31,7 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 </p>
 
 - Setelah itu klik
+
 ```bash
 > File
 > Save
@@ -38,6 +41,7 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
 </p>
 
 - Untuk menyimpan file Python
+
 ```bash
 > "JANGAN LUPA MENGGUNAKAN .py"
 ```
@@ -46,6 +50,7 @@ Download Python terlebih dahulu, di website resmi [Python](https://www.python.or
  <img src="screenshots/ss5.jpg"/>
 </p>
 - Kemudian klik Run untuk menjalankan program
+
 ```bash
 > Run
 > Run Module
